@@ -1,0 +1,9 @@
+Flask==3.0.3
+Flask-SQLAlchemy==3.1.1
+Flask-WTF==1.2.1
+Flask-Migrate==4.0.7
+python-dotenv==1.0.1
+requests==2.32.3
+networkx==3.3
+reportlab==4.2.2
+pytest==8.3.2
